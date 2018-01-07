@@ -1,0 +1,8 @@
+[{
+    "id": "edit",
+    "children": [{
+        "caption": "Keep Lines With Word",
+        "id": "keep_lines_with_word",
+        "command": "keep_lines_with_word"
+    }]
+}]
